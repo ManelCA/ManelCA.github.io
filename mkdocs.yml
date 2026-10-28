@@ -1,1 +1,27 @@
+site_name: Cyber Notes
+site_url: https://manelca.github.io/
 
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: teal
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - tables
+  - pymdownx.highlight
+  - pymdownx.superfences
+
+nav:
+  - Inicio: index.md
+  - Enum:
+      - Passive recon: enum/passive-recon.md
+      - Port scanning: enum/port-scanning.md
+  - Web:
+      - Initial methodology: web/initial-methodology.md
