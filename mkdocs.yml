@@ -22,5 +22,6 @@ nav:
   - Inicio: index.md
   - OSINT:
       - theHarvester: OSINT/theHarvester.md
+      - TruffleHog: OSTINT/TruffleHog.md
   - Web:
       - Initial methodology: web/initial-methodology.md
