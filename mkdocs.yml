@@ -29,5 +29,5 @@ nav:
       - h8mail: OSINT/h8mail.md
       - nmap: OSINT/nmap.md
       - whois: OSINT/whois.md
-  - Web:
-      - Initial methodology: web/initial-methodology.md
+  - Dorks:
+      - Guía de Dorks: Dorks/dorks.md
