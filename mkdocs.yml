@@ -21,8 +21,6 @@ markdown_extensions:
 nav:
   - Inicio: index.md
   - OSINT:
-      - theHarvester: enum/theHarvester.md
-      - Passive recon: enum/passive-recon.md
-      - Port scanning: enum/port-scanning.md
+      - theHarvester: OSINT/theHarvester.md
   - Web:
       - Initial methodology: web/initial-methodology.md
