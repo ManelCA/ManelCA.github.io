@@ -9,7 +9,7 @@ Esta web son mis apuntes personales: comandos, metodología y chuletas que uso e
 
 ---
 
-## 🧭 Dónde empezar
+## Dónde empezar
 
 - [Metodología inicial](web/initial-methodology.md) — primeros pasos al enfrentarte a un objetivo web
 - [OSINT](OSINT/nmap.md) — Herramientas OSINT
@@ -17,7 +17,7 @@ Esta web son mis apuntes personales: comandos, metodología y chuletas que uso e
 
 ---
 
-## 🛠️ Herramientas recogidas
+## Herramientas recogidas
 
 | Categoría | Herramientas |
 |---|---|
@@ -28,7 +28,7 @@ Esta web son mis apuntes personales: comandos, metodología y chuletas que uso e
 
 ---
 
-## 🔗 Sobre mí
+## Sobre mí
 
 - GitHub: [@ManelCA](https://github.com/ManelCA)
 
