@@ -22,6 +22,12 @@ nav:
   - Inicio: index.md
   - OSINT:
       - theHarvester: OSINT/theHarvester.md
-      - TruffleHog: OSTINT/TruffleHog.md
+      - TruffleHog: OSINT/TruffleHog.md
+      - Exiftool: OSINT/Exiftool.md
+      - JohnTheRipper: OSINT/JohnTheRipper.md
+      - dnsenum: OSINT/dnsenum.md
+      - h8mail: OSINT/h8mail.md
+      - nmap: OSINT/nmap.md
+      - whois: OSINT/whois.md
   - Web:
       - Initial methodology: web/initial-methodology.md
