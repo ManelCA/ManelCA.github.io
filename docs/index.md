@@ -1,4 +1,4 @@
-# Cyber Notes
+# Apuntes CiberSeguridad
 
 Hola, soy Manuel. Estudiante de ciberseguridad en CIFP Rodolfo Ucha.
 
