@@ -31,3 +31,5 @@ nav:
       - whois: OSINT/whois.md
   - Dorks:
       - Guía de Dorks: Dorks/dorks.md
+  - Webs:
+      - Herramientas Webs: Webs/HerramientasWebs.md
