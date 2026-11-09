@@ -28,8 +28,6 @@ Recopilatorio de webs útiles para reconocimiento, OSINT y búsqueda de informac
 
 ## Buscadores alternativos
 
-- [Bing](https://www.bing.com/) — dorks tipo `site:` igual que Google
-- [DuckDuckGo](https://duckduckgo.com/) — buscador sin tracking, útil para resultados distintos
 - [Google Hacking Database (GHDB)](https://www.exploit-db.com/google-hacking-database) — dorks ya preparados
 
 ## Archivo / histórico web
