@@ -42,7 +42,6 @@ Recopilatorio de webs útiles para reconocimiento, OSINT y búsqueda de informac
 - [Sherlock (GitHub)](https://github.com/sherlock-project/sherlock) — busca un usuario en múltiples redes sociales
 - [Namechk](https://namechk.com/) — comprobar si un username existe en distintas plataformas
 - [Spiderfoot](https://spiderfoot.tools/) - Busqueda de usuarios en múltiples
-- []
 
 ## Tecnologías web
 
@@ -53,9 +52,5 @@ Recopilatorio de webs útiles para reconocimiento, OSINT y búsqueda de informac
 
 - [Exploit-DB](https://www.exploit-db.com/) — base de datos de exploits públicos
 - [NVD](https://nvd.nist.gov/) — base de datos oficial de CVEs
-
-## Notas
-
-- Ir clasificando por categoría según se añadan más.
-- Si una web necesita API key o cuenta, anotarlo junto al enlace.
+- [Kiploit](https://kitploit.com/es) - Directorio y portal web de herramientas de ciberseguridad.
 
