@@ -29,6 +29,8 @@ Recopilatorio de webs útiles para reconocimiento, OSINT y búsqueda de informac
 ## Buscadores alternativos
 
 - [Google Hacking Database (GHDB)](https://www.exploit-db.com/google-hacking-database) — dorks ya preparados
+- [IACA](https://iaca-darkweb-tools.com/search-darkweb/) - Ideal para OSINT en la Dark Web
+- [Utopia](https://u.is/es) - Navegador descentralizado
 
 ## Archivo / histórico web
 
