@@ -29,6 +29,8 @@ nav:
       - h8mail: OSINT/h8mail.md
       - nmap: OSINT/nmap.md
       - whois: OSINT/whois.md
+      - metadetective: OSINT/metadetective.md
+      - metagoofil: OSINT/metagoofil.md
   - Dorks:
       - Guía de Dorks: Dorks/dorks.md
   - Webs:
