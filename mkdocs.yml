@@ -31,6 +31,8 @@ nav:
       - whois: OSINT/whois.md
       - metadetective: OSINT/metadetective.md
       - metagoofil: OSINT/metagoofil.md
+  - Reconocimiento Activo:
+      - ffuf: ReconocimientoActivo/ffuf.md
   - Dorks:
       - Guía de Dorks: Dorks/dorks.md
   - Webs:
