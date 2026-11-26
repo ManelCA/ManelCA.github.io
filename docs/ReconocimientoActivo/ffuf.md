@@ -78,7 +78,7 @@ robots.txt              [Status: 200, Size: 273, Words: 15, Lines: 8]
 secreto                 [Status: 403, Size: 277, Words: 20, Lines: 10]
 ```
 
-- **Status**: código HTTP. `200` existe, `301/302` redirección, `403` existe pero prohibido, `401` pide login.
+- **Status**: código HTTP. `200` existe, `301/302` redirección, `403` existe pero está restringida la información y a veces ni con el login puedes acceder a la información, `401` pide login.
 - **Size / Words / Lines**: tamaño de la respuesta. Útil para detectar respuestas repetidas y filtrarlas.
 
 ## Ejemplos útiles
